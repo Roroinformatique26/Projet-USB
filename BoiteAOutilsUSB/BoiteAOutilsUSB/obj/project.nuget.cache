@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfaI2pTfTZo=",
+  "success": true,
+  "projectFilePath": "C:\\Plateforme PC\\BoiteAOutilsUSB\\BoiteAOutilsUSB\\BoiteAOutilsUSB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allie\\.nuget\\packages\\system.management\\10.0.12\\system.management.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
